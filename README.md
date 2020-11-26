@@ -1,7 +1,7 @@
 ### Hi there I'm Ravipas Wangananont 👋
 
 - 🔭 I’m currently working on **creating a game server using GO**
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning **GO, MySQL, Test Driven Development**
 - 👯 I’m looking to collaborate on **Machine Learning Projects!**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything tech related, food related 🥘, or everything related! 😂 
